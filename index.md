@@ -5,10 +5,21 @@
 
 * Sharp organizational skills, careful attention to detail, and work with speed and accuracy
 
+## **Experience**
+
 ## **Abilities**
+
+Topic based authoring, Linux, UNIX, HTML, CSS, Doxygen, JSON, Javadoc, markdown, Google docs and sites, SwaggerHub usage and administration, Apigee Edge usage and administration, Stoplight, Jupyter notebooks, Confluence authoring and management, Salesforce, Visual Studio Code, Arbortext, version control systems, Agile software development, readme.io, legacy documentation reuse, DITA/XML Structured Authoring, MadCap Flare, JIRA, WalkMe guided user authoring, Oxygen XML, GitHub, GitLab, gKMS, Google Visualization APIs, Adobe FrameMaker, Microsoft Office Suite, Vim, emacs, computer graphics, and animation, Python, C++
 
 ## **Portfolio**
 
 ## **Education**
+
+**Master of Business Administration, Specialization in Management and Marketing, 2015**
+Santa Clara University, Leavey School of Business, Santa Clara, CA
+
+**Bachelor of Science in Zoology**
+University of Washington, Seattle, W A
+
 
 ## **Interests**
