@@ -5,6 +5,23 @@
 
 * Sharp organizational skills, careful attention to detail, and work with speed and accuracy
 
+
+Product Management
+Technical Project Governance
+Documentation Management
+Content Development
+
+Stakeholder Relationship Building
+Team Leadership
+Strategy Implementation
+Software Development Lifecycle
+
+Customer Service & Support
+Issues & Conflicts Resolution
+Cost Estimation & Reduction
+Market Research Analysis
+
+
 ## **Experience**
 
 ## **Abilities**
@@ -15,10 +32,10 @@ Topic based authoring, Linux, UNIX, HTML, CSS, Doxygen, JSON, Javadoc, markdown,
 
 ## **Education**
 
-**Master of Business Administration, Specialization in Management and Marketing, 2015**
+**Master of Business Administration, Specialization in Management and Marketing, 2015**  
 Santa Clara University, Leavey School of Business, Santa Clara, CA
 
-**Bachelor of Science in Zoology**
+**Bachelor of Science in Zoology**  
 University of Washington, Seattle, W A
 
 
