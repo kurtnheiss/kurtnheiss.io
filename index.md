@@ -1,10 +1,10 @@
 
-### **About**
+## **About**
 
-# **Abilities**
+## **Abilities**
 
-# **Portfolio**
+## **Portfolio**
 
-# **Education**
+## **Education**
 
-# **Interests**
+## **Interests**
