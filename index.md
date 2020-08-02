@@ -41,7 +41,6 @@ University of Washington, Seattle, W A
 
 ## **Interests**
 
-<img src="Capture.png"
-     alt=" icon"
-     style="float: left; margin-right: 10px;" />
+![](img src="Capture.png")
+    
 
