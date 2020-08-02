@@ -45,4 +45,3 @@ University of Washington, Seattle, W A
      alt=" icon"
      style="float: left; margin-right: 10px;" />
 
-https://github.com/kurtnheiss/kurt-n-heiss/blob/master/Capture.PNG
