@@ -44,6 +44,6 @@ University of Washington, Seattle, W A
 
 ## **Interests**
 
-![](Capture.PNG)
+![](.PNG)
     
 
