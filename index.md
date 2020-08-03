@@ -1,28 +1,31 @@
 # **DRAFT**
 ## **About**
 
-* Diverse experience and in-field expertise in product/software development, project administration, technical documentation, stakeholder relationship building, and team leadership
+A business professional with diverse experience and expertise in:
 
-* Sharp organizational skills, careful attention to detail, and work with speed and accuracy
+* Product and software development
+* Project administration
+* Technical documentation
+* Stakeholder relationship building
+* Team leadership
 
 
-Product Management
-Technical Project Governance
-Documentation Management
-Content Development
+Currently based in San Jose, California via San Francisco, Los Angeles, and Seattle. Alumnus of Santa Clara University, Leavey School of Business and the University of Washington.
 
-Stakeholder Relationship Building
-Team Leadership
-Strategy Implementation
-Software Development Lifecycle
 
-Customer Service & Support
-Issues & Conflicts Resolution
-Cost Estimation & Reduction
-Market Research Analysis
+Intrigued by design, coding, classical music, strategy, writing, sculptor, productivity hacks, world literature, science fiction, intelligent dance music
+
 
 
 ## **Experience**
+
+8x8, Inc.
+
+Apple
+
+Google
+
+
 
 ## **Abilities**
 
