@@ -10,7 +10,7 @@ A business professional with diverse experience and expertise in:
 * Team leadership
 
 
-Currently based in San Jose, California via San Francisco, Los Angeles, and Seattle. Alumnus of [Santa Clara University, Leavey School of Business](https://www.scu.edu/business/) and the University of Washington.
+Currently based in San Jose, California via San Francisco, Los Angeles, and Seattle. Alumnus of [Santa Clara University, Leavey School of Business](https://www.scu.edu/business/) (MBA 2015) and the [University of Washington](http://www.biology.washington.edu/) (B.S. Zoology).
 
 
 Intrigued by design, coding, classical music, strategy, writing, sculptor, productivity hacks, world literature, science fiction, intelligent dance music
