@@ -1,25 +1,48 @@
 # **DRAFT**
 ## **About**
 
-A business professional with diverse experience and expertise in:
+A seasoned business professional with diverse experience and expertise in:
 
 * Product and software development
+
 * Project administration
+
 * Technical documentation
-* Stakeholder relationship building
+
+* Relationship building
+
 * Team leadership
 
+Currently based in San Jose, California via San Francisco, Los Angeles, and Seattle. 
 
-Currently based in San Jose, California via San Francisco, Los Angeles, and Seattle. Alumnus of [Santa Clara University, Leavey School of Business](https://www.scu.edu/business/) (MBA 2015) and the [University of Washington](http://www.biology.washington.edu/) (B.S. Zoology).
+Alumnus of [Santa Clara University, Leavey School of Business](https://www.scu.edu/business/) (MBA 2015) and the [University of Washington](http://www.biology.washington.edu/) (B.S., Zoology).
+
+Intrigued by design, coding, classical music, strategy, writing, sculpting, productivity hacks, swimming, world literature, science fiction, intelligent dance music, animal behaviour, surfing
+
+## **Career**
+
+<td>8x8
+
+_API Product Owner_
+
+   </td>
+   <td><p style="text-align: right">
+San Jose, CA</p>
 
 
-Intrigued by design, coding, classical music, strategy, writing, sculpting, productivity hacks, world literature, science fiction, intelligent dance music, animal behaviour
+<p style="text-align: right">
+January 2019 - present</p>
 
 
+   </td>
+   <td colspan="2" >
 
-## **Experience**
 
-8x8, Inc.
+*   Manage and develop public API Reference portal including value proposition, functioning interactive specification, and use cases
+*   Implement API First Standardization Initiative across company
+*   Collaborate with globally distributed development teams and stakeholders across the enterprise
+*   Continuous improvement in the user experience
+   </td>
 
 Apple
 
