@@ -1,4 +1,6 @@
 # **DRAFT**
+
+![](NLN_Tiger_Lily.jpg)
 ## **About**
 
 A seasoned business professional with diverse experience and expertise in:
