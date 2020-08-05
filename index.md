@@ -40,9 +40,9 @@ San Jose, CA</p>
      <td>Google</td>
   </tr>
   <tr>
-    <td><img src="screenshots/Screenshot_1582745092.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
+    <td><img src="8x8.png" width=270 height=480></td>
+    <td><img src="Apple.png" width=270 height=480></td>
+    <td><img src="Google.png" width=270 height=480></td>
   </tr>
  </table>
 
