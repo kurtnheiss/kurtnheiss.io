@@ -23,14 +23,6 @@ Intrigued by design, coding, classical music, strategy, writing, sculpting, prod
 
 ## **Career**
 
-<td>8x8
-
-_API Product Owner_
-
-   </td>
-   <td><p style="text-align: right">
-San Jose, CA</p>
-   
    #### Career highlights
 
 <table>
@@ -40,9 +32,9 @@ San Jose, CA</p>
      <td>Google</td>
   </tr>
   <tr>
-    <td><img src="8x8.png" width=270 height=480></td>
-    <td><img src="Apple.png" width=270 height=480></td>
-    <td><img src="Google.png" width=270 height=480></td>
+    <td><img src="8x8.png" width=100 height=100></td>
+    <td><img src="Apple.png" width=100 height=100></td>
+    <td><img src="Google.png" width=100 height=100></td>
   </tr>
  </table>
 
