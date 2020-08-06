@@ -23,11 +23,7 @@ Intrigued by design, coding, classical music, strategy, writing, sculpting, prod
 
 ## **Career**
 
-
-
 ![](8x8.png "title-1") ![](Apple.png "title-2")  ![](Google.png "title-2")
-<p style="text-align: right">
-January 2019 - present</p>
 
 
    </td>
