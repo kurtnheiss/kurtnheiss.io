@@ -15,11 +15,9 @@ A seasoned business professional with diverse experience and expertise in:
 
 * Team leadership
 
-Currently based in San Jose, California via San Francisco, Los Angeles, and Seattle. 
+![Resume](Kurt Heiss cv.pdf) 
 
 Alumnus of [Santa Clara University, Leavey School of Business](https://www.scu.edu/business/) (MBA 2015) and the [University of Washington](http://www.biology.washington.edu/) (B.S., Zoology).
-
-Intrigued by design, coding, classical music, strategy, writing, sculpting, productivity hacks, swimming, world literature, science fiction, intelligent dance music, animal behaviour, surfing
 
 ## **Career**
 
@@ -52,6 +50,8 @@ Topic based authoring, Linux, UNIX, HTML, CSS, Doxygen, JSON, Javadoc, markdown,
 
 
 ## **Interests**
+
+Intrigued by design, coding, classical music, strategy, writing, sculpting, productivity hacks, swimming, world literature, science fiction, intelligent dance music, animal behaviour, surfing
 
 ![](.PNG)
     
