@@ -15,7 +15,7 @@ A seasoned business professional with diverse experience and expertise in:
 
 * Team leadership
 
-[Resume](Kurt Heiss cv.pdf) 
+[Resume](https://github.com/kurtnheiss/kurtnheiss.io/blob/master/Kurt%20Heiss%20cv.pdf) 
 
 Alumnus of [Santa Clara University, Leavey School of Business](https://www.scu.edu/business/) (MBA 2015) and the [University of Washington](http://www.biology.washington.edu/) (B.S., Zoology).
 
