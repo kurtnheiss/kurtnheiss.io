@@ -21,6 +21,12 @@ Alumnus of [Santa Clara University, Leavey School of Business](https://www.scu.e
 
 ## **Career**
 
+
+| Column 1       | Column 2     | Column 3     |
+| :------------- | :----------: | -----------: |
+|  Cell Contents | More Stuff   | And Again    |
+| You Can Also   | Put Pipes In | Like this \| |
+
 |  ![](8x8.png "title-1")  | --  |
 |  ![](Apple.png "title-2")  |  --  |
 |  ![](Google.png "title-2")  |  --  |
