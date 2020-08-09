@@ -22,18 +22,12 @@ Alumnus of [Santa Clara University, Leavey School of Business](https://www.scu.e
 ## **Career**
 
 
-| Column 1       | Column 2     | Column 3     |
-| :------------- | :----------: | -----------: |
-|  Cell Contents | More Stuff   | And Again    |
-| You Can Also   | Put Pipes In | Like this \| |
-
-|  ![](8x8.png "title-1")  | --  |
+| Company       | Results     |
+| :-------------| -----------:|
+|  ![](8x8.png "title-1") |  And Again    |
+| You Can Also   | Like this  |
 |  ![](Apple.png "title-2")  |  --  |
 |  ![](Google.png "title-2")  |  --  |
-
-
-   </td>
-   <td colspan="2" >
 
 
 *   Manage and develop public API Reference portal including value proposition, functioning interactive specification, and use cases
