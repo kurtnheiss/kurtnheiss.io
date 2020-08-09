@@ -1,12 +1,12 @@
 # Site
-repository: sproogen/resume-theme
+repository: kurtnheiss/kurtnheiss.io
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
+name: Kurt Heiss
 title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+email: kurtnheiss@gmail.com
+website: www.github.com/kurtnheiss/kurtnheiss.io
 
 # Social links
 twitter_username: facespics
