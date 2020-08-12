@@ -45,11 +45,20 @@ I enjoy making clean and interactive UI that is quick and easy to use whilst als
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
+  In my free time, I like to learn new skills and exercise. Right now I am taking front-end web developer coursework through free code camp.
+  
   Some of my other interests and hobbies are:
-   - Surfing
-   - Swimming
-   - Gaming
-   - Knitting
+   - Surfing (prepping at Ocean Beach)
+   - Swimming (alcatraz swim a few years back)
+   - Writing screenplays
+   - papier mache
+   - clay sculptor (shark)
+   - playing the cello
+   - playing music
+   - learning German
+   - literature
+   - speculative fiction
+   
    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
