@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Kurt Heiss
 title: Project Management/Content Development
 email: kurtnheiss@gmail.com
-website: www.github.com/kurtnheiss/kurtnheiss.io
+## website: www.github.com/kurtnheiss/kurtnheiss.io
 
 # Social links
 twitter_username: kurtnheiss
@@ -24,9 +24,14 @@ youtube_username: kurtnheiss
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Kurt Heiss and I'm a Project Manager/Content Developer.
+  Hi, my name is Kurt Heiss and I'm a Project Manager/Content Developer based in the San Francisco Bay Area. I have extensive and varied experience working at both established Silicon Valley tech giants as well as and startups.
+  Right now, I am working at 8x8 (a cloud all in suite of cloud commmunications solutions their public API program.
   
   I am most skilled in <mark>Eating Pizza</mark>
+  
+   I am currently working for the Royal Bank of Scotland as a frontend software engineer on a comercial banking platform.
+
+I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience. I have worked with a range of different languages and frameworks and I am always looking for opportunities to work with something new. The things that I currently have the most experience working with are: ES6 Javascript, React & Redux, Java, PHP, MySQL, Symfony, Android, SASS, git and AWS services.
 
 # Projects Section
 # projects_title: Projects
