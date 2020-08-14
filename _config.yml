@@ -52,10 +52,11 @@ more_content: | # this will include new lines to allow paragraphs
    - playing the cello
    - playing music
    - learning German
-   - literature
-   - speculative fiction
+   - [literature](https://www.goodreads.com/user/show/5016817-kurt-heiss)
+   - [speculative fiction](https://www.goodreads.com/user/show/5016817-kurt-heiss)
    
    - [progrmainng](link)
+   vegetarian cooking
 
 # Footer
 footer_show_references: true
