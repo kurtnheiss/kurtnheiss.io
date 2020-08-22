@@ -47,11 +47,11 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  In my free time, I like to learn new skills and exercise. Right 
-  now I am taking front-end web developer coursework through Free Code Camp.
+  In my free time, I like to learn new skills and exercise. 
+  
+  Right now I am taking front-end web developer coursework through [Free Code Camp](https://www.freecodecamp.org/kurtnheiss).
   
   Some of my other interests and hobbies are -
-   - [Progrmainng](https://www.freecodecamp.org/kurtnheiss)
    - Surfing
    - Swimming 
    - Writing screenplays
