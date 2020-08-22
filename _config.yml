@@ -24,10 +24,16 @@ youtube_username: kurtnheiss
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Kurt Heiss and I'm a Project Manager/Content Developer based in the San Francisco Bay Area. I have extensive and varied experience working at both established Silicon Valley tech giants as well as and startups.
-  Right now, I am working at 8x8 (a cloud all in suite of cloud commmunications solutions their public API program.
+  Hi, I'm Kurt 
   
-  I am most skilled in <mark>------</mark>
+  Content development and project management, currently based in San Jose via San Francisco, Seattle, and 
+  Los Angeles. Alumnus of Santa Clara University and the University of Washington.
+
+  Intrigued by strategy, organization, design, writing, art, vegetarian cooking, classical and metal music, IDM, and thought provoking conversation.
+
+  I have extensive and varied experience working at both established Silicon Valley tech giants as well as startups.
+  
+  Right now, I am working at 8x8 (a cloud all in suite of cloud commmunications solutions) on their public API program.
 
 # Experience Section
 # experience_title: Experience
@@ -42,24 +48,19 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   In my free time, I like to learn new skills and exercise. Right 
-  now I am taking front-end web developer coursework through free code camp.
+  now I am taking front-end web developer coursework through Free Code Camp.
   
   Some of my other interests and hobbies are -
-   - [Surfing] (images/surfsup.jpg)
-   - Swimming (alcatraz swim a few years back)
+   - Surfing
+   - Swimming 
    - Writing screenplays
-   - papier mache
-   - clay sculptor (shark)
-   - playing the cello
-   - playing music
+   - clay and papier mache sculptors
+   - trying different techniques on the guitar and bass
+   - returning to the cello
    - learning German
-  
-
-   - [literature](https://www.goodreads.com/user/show/5016817-kurt-heiss)
-   - [speculative fiction](https://www.goodreads.com/user/show/5016817-kurt-heiss)
-   
+   - [reading](https://www.goodreads.com/user/show/5016817-kurt-heiss)
    - [progrmainng](link)
-   vegetarian cooking
+   - vegetarian cooking
 
 # Footer
 footer_show_references: true
