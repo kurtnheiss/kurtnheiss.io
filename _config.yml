@@ -49,7 +49,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  In my free time, I like to learn new skills and exercise. 
+  In my free time, I like to learn new skills, hone my artistic interests, and exercise. 
   
   Right now I am taking front-end web developer coursework through [Free Code Camp](https://www.freecodecamp.org/kurtnheiss).
   
@@ -67,7 +67,7 @@ more_content: | # this will include new lines to allow paragraphs
    - Vegetarian cooking
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
