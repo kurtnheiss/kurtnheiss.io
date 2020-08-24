@@ -3,7 +3,7 @@ repository: kurtnheiss/kurtnheiss.io
 favicon: images/favicon.ico
 
 # Personal info
-name: Kurt Heiss
+name: Kurt N. Heiss
 # title: Project Management/Content Development
 email: kurtnheiss@gmail.com
 ## website: www.github.com/kurtnheiss/kurtnheiss.io
@@ -27,7 +27,9 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Kurt 
   
   Content development and project management, currently based in San Jose via San Francisco, Seattle, and 
-  Los Angeles. Alumnus of Santa Clara University and the University of Washington.
+  Los Angeles. 
+  
+  Alumnus of Santa Clara University and the University of Washington.
 
   Intrigued by strategy, organization, design, writing, art, vegetarian cooking, classical and metal music, IDM, and thought provoking conversation.
 
@@ -57,9 +59,9 @@ more_content: | # this will include new lines to allow paragraphs
    - Swimming 
    - Hiking
    - Writing screenplays
-   - Clay and papier mache sculptors
+   - Clay and papier mache sculpting
    - Trying different techniques on the guitar and bass
-   - Returning to the cello
+   - Returning to study of the cello
    - Learning German
    - [Reading](https://www.goodreads.com/user/show/5016817-kurt-heiss)
    - Vegetarian cooking
