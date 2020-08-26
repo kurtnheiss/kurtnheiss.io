@@ -7,16 +7,6 @@
    Cloud Communication Platform Public API Initiative
   description: | # this will include new lines to allow paragraphs
     -----------
-
-- layout: left
-  company: Apple
-  link: -------
-  job_title: Information Development
-  dates: ------------
-  quote: >
-   Internal Kubernetes Platform Initiative
-  description: | # this will include new lines to allow paragraphs
-    -----------
     
     - layout: left
   company: Google
