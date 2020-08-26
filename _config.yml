@@ -26,22 +26,21 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Kurt 
   
-  Content development and project management, currently based in San Jose via San Francisco, Seattle, and 
-  Los Angeles. 
+  I am a business professional with skills and interest in information development, marketing, and management. I have extensive and 
+  varied experience working at both established Silicon Valley tech giants as well as startups.
   
-  Alumnus of Santa Clara University and the University of Washington.
-
-  Intrigued by strategy, organization, design, writing, art, vegetarian cooking, classical and metal music, IDM, and thought provoking conversation.
-
-  Extensive and varied experience working at both established Silicon Valley tech giants as well as startups.
+  Currently based in San Jose via San Francisco, Seattle, and Los Angeles. 
   
-  Currently at 8x8 (a cloud all in suite of cloud commmunications solutions) helping develop their public API program.
+  An alumnus of Santa Clara University and the University of Washington.
+
+  Intrigued by strategy, organization, design, writing, art, productivity hacks, meditation, vegetarian cooking, workouts, classical and 
+  metal music, IDM, and thought provoking conversation.
 
 # Experience Section
-# experience_title: Experience (In Progress)
+# experience_title: Experience
 
 # Projects Section
-# projects_title: Projects (In Progress)
+# projects_title: Projects
 
 # Education Section
 # educaton_title: Education
