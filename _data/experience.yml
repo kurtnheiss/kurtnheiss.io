@@ -1,1 +1,28 @@
-
+- layout: left
+  company: 8x8, Inc.
+  link: -------
+  job_title: API Product Owner
+  dates: ------------
+  quote: >
+   Cloud Communication Platform Public API Initiative
+  description: | # this will include new lines to allow paragraphs
+    -----------
+- layout: left
+  company: Apple
+  link: -------
+  job_title: Information Development
+  dates: ------------
+  quote: >
+   Internal Kubernetes Platform Initiative
+  description: | # this will include new lines to allow paragraphs
+    -----------
+    
+    - layout: left
+  company: Google
+  link: -------
+  job_title: Information Development
+  dates: ------------
+  quote: >
+   Google Assistant Projects
+  description: | # this will include new lines to allow paragraphs
+    -----------
