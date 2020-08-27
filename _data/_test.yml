@@ -1,8 +1,8 @@
-- company: Royal Bank of Scotland
-  dates: August 2017 - Present
+- company: 8x8
+  dates: January 2019 - Present
   job_title: Software Engineer
   description: |
-    I am currently working at The Royal Bank of Scotland as a full stack engineer focusing mostly on the front end of a corporate banking product.
+    I am currently working at 8x8 as the API Product Owner focusing on developing  mostly on the front end of a corporate banking product.
     Working as part of a scrum team consiting of 5 developers, 2 testers and a PO/BA I have the oportunity to help drive the team forwards and
     work with the PO defining what we are building.
 
@@ -15,10 +15,10 @@
     to the customers while also developing to the highest standards.
 
 - layout: right
-  company: Simitive
-  link: www.simitive.com
-  dates: November 2015 - August 2017
-  job_title: Developer
+  company: Apple
+  ##link: www.simitive.com
+  dates: October ? 2018 - December 2018
+  job_title: Information Development
   description: |
     During my time at Simitive I worked as part of an agile team building our own in house web based software and
     also a large scale website for an international client. I gained experience working with a continuous integration
@@ -36,17 +36,17 @@
     our clients SSO, this mostly involves configuring new clients who are using <mark>AD FS</mark>, <mark>Shibboleth</mark> and
     <mark>CAS</mark> but also maintaining our software's SSO functionality.
 
-- company: Freelance
+- company: Google
   dates: September 2016 - October 2016
-  job_title: Android Development
+  job_title: Google Assistant Developer Documentation
   description: |
     I was asked to update an existing Android app to the latest version of Android and to fix any issues caused by
     this as well as a few other existing issues. This project had a very tight time scale and I was able to complete
     it in very good time while providing regular updates to the client.
 
-- layout: right
+- layout: Ayasdi
   company: Nudge Digital
-  link: www.nudgedigital.co.uk
+  ##link: www.nudgedigital.co.uk
   dates: August 2014 - November 2015
   job_title: Developer
   description: |
@@ -64,8 +64,8 @@
     great opportunity to learn more about the industry in another country but also to allow me to lead their
     team for a few weeks and gain lots of experience of remote teams.
 
-- company: GWS Media
-  link: www.gwsmedia.com
+- company: Cisco
+  ##link: www.gwsmedia.com
   dates: June 2012 - August 2014
   job_title: Web Developer
   description: |
