@@ -1,11 +1,15 @@
 - company: 8x8
   dates: January 2019 - Present
-  job_title: Software Engineer
+  job_title: API Product Owner
   description: |
-    I am currently working at 8x8 as the API Product Owner focusing on developing  mostly on the front end of a corporate banking product.
-    Working as part of a scrum team consiting of 5 developers, 2 testers and a PO/BA I have the oportunity to help drive the team forwards and
+    I am currently working at 8x8 as the Product Owner for development of their public API program. As part of the Product Management team I work with
+    developers on showcasing their API and meeting the promulgated API standards. Edit OpenAPI specs. Develop documentation and use cases.Organize content 
+    for display on the public website. Drive 
+    I have the oportunity to help drive the team forwards and
     work with the PO defining what we are building.
 
+    These APIs will enable customers to 
+    
     I spend most of my time working on a specifc area of a large application that our team take ownership over. The front end is a <mark>React</mark> app
     that talks to an API built using a collection of <mark>Java</mark> microservices. I have spent time working in multiple parts of the stack including
     helping to define our front end architecure to follow best practices to implementing PDF and CSV export in a microservice.
@@ -20,6 +24,8 @@
   dates: October ? 2018 - December 2018
   job_title: Information Development
   description: |
+    During my time as Apple I worked as part of team getting an internal Kubernestes project going
+    
     During my time at Simitive I worked as part of an agile team building our own in house web based software and
     also a large scale website for an international client. I gained experience working with a continuous integration
     workflow using tools such as <mark>Jenkins</mark> and working with Amazon Web Services for deployments. We built most
