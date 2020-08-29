@@ -1,17 +1,8 @@
 # Project template
 - layout: left
   company: 8x8
-  description: | # this will include new lines to allow paragraphs
-     I am currently working at 8x8 as the API Product Owner. I am part of a team developing our public API program. 
-     As a member of the Product Management team I work with our globally distributed developer teams on the best way 
-     to present their APIs to our customers. I  help our development teams in Cluj, London, and Singapore develop both 
-     customer facing reference and use case information. 
+  description: | # this will include new lines to allow paragraphs 
      
-     8x8 has an incredible data platform and these APIs enable our customers to access a great deal of enterprise information.
+     [8x8 Cloud Communications Reference Portal](https://8x8gateway-8x8apis.apigee.io/)
      
-     When I started at 8x8 there was no structured public API program in place. I was able to get the conversation started
-     amongst the disparate development teams as to strategy and standardized processes. 
-     
-     I enjoy learning about all areas of our APIs which enables me to be a go-to person for knowledge and queries within 
-     the Product and the other teams. I am always looking to suggest improvements and challenge what and how we are working 
-     to make sure we are delivering the best service
+     [Virtual Office Analytics APIs](https://8x8gateway-voanalytics.apigee.io/)
