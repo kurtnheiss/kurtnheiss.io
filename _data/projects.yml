@@ -4,11 +4,3 @@
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   description: | # this will include new lines to allow paragraphs
     Description about the work on/with the project
-
-
-
-- layout: left
-  
-  description: | # this will include new lines to allow paragraphs
-    ------- 
-    [This portfolio](https://drive.google.com/drive/folders/0B5o7-fHVavi8SkVjTEVtRDA1ZDQ?usp=sharing) features documentation for some of the school project and professional documentation
