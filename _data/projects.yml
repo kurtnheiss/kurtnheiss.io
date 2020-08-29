@@ -1,9 +1,6 @@
 # Project template
 - layout: left
   company: 8x8
-  #link: Link to company (optional)
-  job_title: API Product Owner
-  dates: January 2019 - present
   description: | # this will include new lines to allow paragraphs
      I am currently working at 8x8 as the API Product Owner. I am part of a team developing our public API program. 
      As a member of the Product Management team I work with our globally distributed developer teams on the best way 
