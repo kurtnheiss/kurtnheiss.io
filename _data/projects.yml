@@ -2,28 +2,24 @@
 - layout: left
   company: 8x8 Projects
   description: | # this will include new lines to allow paragraphs 
-     
-     // [8x8 Cloud Communications Reference Portal](https://8x8gateway-8x8apis.apigee.io/) // [Virtual Office Analytics APIs](https://8x8gateway-voanalytics.apigee.io/) // [Voice SDK User Information](https://developer.wavecell.com/voice/voice-sdk/overview) //
+    // [8x8 Cloud Communications Reference Portal](https://8x8gateway-8x8apis.apigee.io/) // [Virtual Office Analytics APIs](https://8x8gateway-voanalytics.apigee.io/) // [Voice SDK User Information](https://developer.wavecell.com/voice/voice-sdk/overview) //
      
 - layout: left 
   company: API/Developer Guides
   description: | # this will include new lines to allow paragraphs 
-  
-      // [8x8](https://drive.google.com/drive/folders/1tX0krXawS6JgDBN4cRdjgUQfDLOx8Uzb?usp=sharing) // [Ayasdi](https://drive.google.com/drive/folders/1swpfD155wKukRjA6JeFk73YPOnZf99I5?usp=sharing) // [Symantec (Cloudfire)](https://drive.google.com/drive/folders/1XHXl2vvMwiRPoTk3AOuH5xjIk0sIOowE?usp=sharing) // [ExactBid](https://drive.google.com/drive/folders/1jW5wILglZFS779_aQ4d1LETbj-N9Wc7s?usp=sharing) // [Google](https://drive.google.com/drive/folders/16SQGLyNS_AuuAhi_CnqvBQCj22pJ4EkQ?usp=sharing) // [Aggregate Knowledge (Neustar)](https://drive.google.com/drive/folders/1nWVseoi74V_4o9XkMA3rfJlui4nKG5Oi?usp=sharing) // [NTTis](https://drive.google.com/drive/folders/1t_8vbdtIp7FHWmK9gWv-ltUQ_xgbC71G?usp=sharing) // [Oracle Corp](https://drive.google.com/drive/folders/1TBU6DWxBC_kC-c7Chds6nN0fp6-7-zZ1?usp=sharing) //
+    // [8x8](https://drive.google.com/drive/folders/1tX0krXawS6JgDBN4cRdjgUQfDLOx8Uzb?usp=sharing) // [Ayasdi](https://drive.google.com/drive/folders/1swpfD155wKukRjA6JeFk73YPOnZf99I5?usp=sharing) // [Symantec (Cloudfire)](https://drive.google.com/drive/folders/1XHXl2vvMwiRPoTk3AOuH5xjIk0sIOowE?usp=sharing) // [ExactBid](https://drive.google.com/drive/folders/1jW5wILglZFS779_aQ4d1LETbj-N9Wc7s?usp=sharing) // [Google](https://drive.google.com/drive/folders/16SQGLyNS_AuuAhi_CnqvBQCj22pJ4EkQ?usp=sharing) // [Aggregate Knowledge (Neustar)](https://drive.google.com/drive/folders/1nWVseoi74V_4o9XkMA3rfJlui4nKG5Oi?usp=sharing) // [NTTis](https://drive.google.com/drive/folders/1t_8vbdtIp7FHWmK9gWv-ltUQ_xgbC71G?usp=sharing) // [Oracle Corp](https://drive.google.com/drive/folders/1TBU6DWxBC_kC-c7Chds6nN0fp6-7-zZ1?usp=sharing) //
      
 - layout: left 
   company: Technical Documents
   description: | # this will include new lines to allow paragraphs 
-  
     // [Ayasdi](https://drive.google.com/drive/folders/133tDRW-u6XF5gElWvsCSLmCm7ZWjQv0Z?usp=sharing) // [Cisco Systems](https://drive.google.com/drive/folders/0B5o7-fHVavi8SG5ReXpuNW1rdGc?usp=sharing) // [Symantec](https://drive.google.com/drive/folders/0B5o7-fHVavi8flE5OVJ6bDN6cWpqYjRVdVl4aGQwenJMeTJ3SWhTblJiNmpFNnRYdWo5RlE?usp=sharing) // [ExactBid](https://drive.google.com/drive/folders/0B5o7-fHVavi8VDRhT0FJY0NXdVU?usp=sharing) // [Aggregate Knowledge](https://drive.google.com/drive/folders/0B5o7-fHVavi8fjhvMjA1bExJZWRNQmtnT2VhUnNsUHhmT3lLWHc4UXV5M0V2ZUt1TzV1TWs?usp=sharing) // [NTTi3](https://drive.google.com/drive/folders/0B5o7-fHVavi8eWVGNWQ1ZWdwSG8?usp=sharing) // [Oracle Corp](https://drive.google.com/drive/folders/0B5o7-fHVavi8fk8zYWdOX1RDUER0WGFWR1hyT0U3bXVmN0hNM1BKRnQ2amhRS0JvbUx5Sms?usp=sharing) //
   
 - layout: left 
   company: Santa Clara University
   description: | # this will include new lines to allow paragraphs 
-     
-    //  Management [Business Case Analyses and Global Social Benefit Incubator](https://drive.google.com/drive/folders/0B5o7-fHVavi8fndzaEFraThaTHpNS1RzUG5WMVAtalRnRENTWEZBbTloMnFfTWxuS2c1MG8?usp=sharing) //
+    // Management [Business Case Analyses and Global Social Benefit Incubator](https://drive.google.com/drive/folders/0B5o7-fHVavi8fndzaEFraThaTHpNS1RzUG5WMVAtalRnRENTWEZBbTloMnFfTWxuS2c1MG8?usp=sharing) //
     
-    //  Marketing [Marketing Analysis, Brand Audit, Business Plan, and Small Business Entrepreneurship](https://drive.google.com/drive/folders/0B5o7-fHVavi8TWVta0twa0dyWnM?usp=sharing) //
+    // Marketing [Marketing Analysis, Brand Audit, Business Plan, and Small Business Entrepreneurship](https://drive.google.com/drive/folders/0B5o7-fHVavi8TWVta0twa0dyWnM?usp=sharing) //
      
     // Capstone [Tesla Energy Storage](https://drive.google.com/drive/folders/0B5o7-fHVavi8flpFOWNQaWVZUTI4UHQ2eHY2YXJyQ0pId0s3azEyTHVtU2Q2TmxfbHVvaHM?usp=sharing) // 
    
