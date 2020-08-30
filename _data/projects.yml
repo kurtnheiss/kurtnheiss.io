@@ -21,8 +21,8 @@
   company: Santa Clara University
   description: | # this will include new lines to allow paragraphs 
      
-     Management: Harvard Business Case Analysis, Organizational Case Analysis, Global Social Benefit Incubator
+    Management: Harvard Business Case Analysis, Organizational Case Analysis, Global Social Benefit Incubator
      
-     Marketing: Marketing Analysis, Brand Audit, Business Plan, and Small Business Entrepreneurship  
+    Marketing: // Marketing Analysis, Brand Audit, Business Plan, and Small Business Entrepreneurship  
      
-     Capstone: Tesla Energy Storage - 
+    Capstone: Tesla Energy Storage - 
