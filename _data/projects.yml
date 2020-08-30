@@ -12,7 +12,7 @@
      // [8x8](https://drive.google.com/drive/folders/1tX0krXawS6JgDBN4cRdjgUQfDLOx8Uzb?usp=sharing) // [Ayasdi](https://drive.google.com/drive/folders/1swpfD155wKukRjA6JeFk73YPOnZf99I5?usp=sharing) // [Symantec (Cloudfire)](https://drive.google.com/drive/folders/1XHXl2vvMwiRPoTk3AOuH5xjIk0sIOowE?usp=sharing) // [ExactBid](https://drive.google.com/drive/folders/1jW5wILglZFS779_aQ4d1LETbj-N9Wc7s?usp=sharing) // [Google](https://drive.google.com/drive/folders/16SQGLyNS_AuuAhi_CnqvBQCj22pJ4EkQ?usp=sharing) // [Aggregate Knowledge (Neustar)](https://drive.google.com/drive/folders/1nWVseoi74V_4o9XkMA3rfJlui4nKG5Oi?usp=sharing) // [NTTis](https://drive.google.com/drive/folders/1t_8vbdtIp7FHWmK9gWv-ltUQ_xgbC71G?usp=sharing) // [Oracle Corp](https://drive.google.com/drive/folders/1TBU6DWxBC_kC-c7Chds6nN0fp6-7-zZ1?usp=sharing) //
 
 - layout: left 
-  company: Company Technical Documents
+  company: Technical Documents
   description: | # this will include new lines to allow paragraphs 
      
      // 
@@ -21,14 +21,8 @@
   company: Santa Clara University
   description: | # this will include new lines to allow paragraphs 
      
-     // Management
+     Management: Harvard Business Case Analysis, Organizational Case Analysis, Global Social Benefit Incubator
      
-          Harvard Business Case Analysis, Organizational Case Analysis, Global Social Benefit Incubator
+     Marketing: Marketing Analysis, Brand Audit, Business Plan, and Small Business Entrepreneurship  
      
-     // Marketing
-     
-          Marketing Analysis, Brand Audit, Business Plan, and Small Business Entrepreneurship  
-          
-     // Capstone
-     
-          Tesla Energy Storage
+     Capstone: Tesla Energy Storage - 
