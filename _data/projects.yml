@@ -3,7 +3,7 @@
   company: 8x8 Projects
   description: | # this will include new lines to allow paragraphs 
      
-     [8x8 Cloud Communications Reference Portal](https://8x8gateway-8x8apis.apigee.io/) [Virtual Office Analytics APIs](https://8x8gateway-voanalytics.apigee.io/) [Voice SDK User Information](https://developer.wavecell.com/voice/voice-sdk/overview)
+     [8x8 Cloud Communications Reference Portal](https://8x8gateway-8x8apis.apigee.io/) // [Virtual Office Analytics APIs](https://8x8gateway-voanalytics.apigee.io/) // [Voice SDK User Information](https://developer.wavecell.com/voice/voice-sdk/overview)
      
 - layout: left 
   company: API/Developer Guides
