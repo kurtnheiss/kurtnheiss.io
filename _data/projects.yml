@@ -2,7 +2,7 @@
 - layout: left
   company: 8x8 Projects
   description: | # this will include new lines to allow paragraphs 
-   [8x8 Cloud Communicatons API Reference Portal](https://8x8gateway-8x8apis.apigee.io/) // [Analytics for 8x8 Work APIs](https://8x8gateway-voanalytics.apigee.io/) // [Voice SDK User Information](https://developer.wavecell.com/voice/voice-sdk/overview)
+   [Jitsi as a Service](https://developer.8x8.com/jaas/docsz) [8x8 Cloud Communicatons API Reference Portal](https://8x8gateway-8x8apis.apigee.io/) // [Analytics for 8x8 Work APIs](https://8x8gateway-voanalytics.apigee.io/) // [Voice SDK User Information](https://developer.wavecell.com/voice/voice-sdk/overview)
      
 - layout: left 
   company: API/Developer Guides
