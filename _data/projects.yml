@@ -1,4 +1,15 @@
 # Project template
+- layout: left 
+  company: LinkedIn
+  description: | # this will include new lines to allow paragraphs
+    [Creatives API Beta](https://docs.microsoft.com/en-us/linkedin/marketing/integrations/ads/account-structure/create-and-manage-creatives-beta?tabs=http)
+    
+    [Videos API Beta]()
+    
+    [Posts API Beta]()
+    
+    [Video Ads Beta]()
+
 - layout: left
   company: 8x8 Projects
   description: | # this will include new lines to allow paragraphs 
