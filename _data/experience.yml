@@ -18,8 +18,8 @@
      Constant iteration and improvement seeking to challenge what and how we are working to make sure we are delivering the best service.
 
 - layout: left
-  company: [8x8](https://www.8x8.com/)
-  #link: Link to company (optional)
+  company: 8x8
+  link: https://www.8x8.com
   job_title: API Product Owner
   dates: January 2019 - August 2021
   description: | # this will include new lines to allow paragraphs
