@@ -2,20 +2,10 @@
 
 - layout: left
   company: LinkedIn
-  #link: Link to company (optional)
-  job_title: API Product Owner
-  dates: January 2019 - August 2021
+  link: https://www.linkedin.com
+  job_title: Senior API Technical Writer
+  dates: September 2021 - present
   description: | # this will include new lines to allow paragraphs
-     As a member of the Product Management team I worked with globally distributed developer teams on the best way 
-     to present their APIs to our customers. I  helped teams in Cluj, London, Singapore, and Campbell develop both 
-     customer facing reference and use case information. 
-     
-     8x8 has an incredible data platform and these APIs enabled our customers to access a great deal of data.
-     
-     When I started at 8x8 there was no structured public API program in place. I was able to get the conversation started
-     amongst the disparate development teams as to strategy and standardized processes. 
-     
-     Constant iteration and improvement seeking to challenge what and how we are working to make sure we are delivering the best service.
 
 - layout: left
   company: 8x8
