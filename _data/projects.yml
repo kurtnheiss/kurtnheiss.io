@@ -2,7 +2,8 @@
 - layout: left 
   company: LinkedIn
   description: | # this will include new lines to allow paragraphs
-    [Creatives API Beta](https://docs.microsoft.com/en-us/linkedin/marketing/integrations/ads/account-structure/create-and-manage-creatives-beta?tabs=http) // [Videos API Beta]() // [Posts API Beta]() // [Video Ads Beta]()
+    [Creatives API Beta](https://docs.microsoft.com/en-us/linkedin/marketing/integrations/ads/account-structure/create-and-manage-creatives-beta?tabs=http) // [Videos API Beta](https://docs.microsoft.com/en-us/linkedin/marketing/integrations/community-management/shares/videos-api-beta?tabs=http) // [Posts API Beta](https://docs.microsoft.com/en-us/linkedin/marketing/integrations/community-management/shares/posts-api-beta?tabs=http) // [Video Ads Beta](https://docs.microsoft.com/en-us/linkedin/marketing/integrations/ads/advertising-targeting/create-and-manage-video-beta)
+    // [Little Text Format](https://docs.microsoft.com/en-us/linkedin/marketing/integrations/community-management/shares/little-text-format)
 
 - layout: left
   company: 8x8 Projects
