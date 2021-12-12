@@ -7,8 +7,7 @@
 - layout: left
   company: 8x8 Projects
   description: | # this will include new lines to allow paragraphs 
-   [Jitsi as a Service](https://developer.8x8.com/jaas/docsz) // [8x8 Cloud Communicatons API Reference Portal](https://8x8gateway-8x8apis.apigee.io/) // [Analytics for 8x8 Work APIs](https://8x8gateway-voanalytics.apigee.io/) // [Voice SDK User Information](https://developer.wavecell.com/voice/voice-sdk/overview)
-     
+    [8x8 Cloud Communicatons API Reference Portal](https://8x8gateway-8x8apis.apigee.io/) // [Analytics for 8x8 Work APIs](https://8x8gateway-voanalytics.apigee.io/) // [Voice SDK User Information](https://developer.wavecell.com/voice/voice-sdk/overview) // [Jitsi as a Service](https://developer.8x8.com/jaas/docs/jaas-onboarding?_ga=2.248774276.2017987783.1639346514-2025182814.1639346514)     
 - layout: left 
   company: API/Developer Guides
   description: | # this will include new lines to allow paragraphs 
@@ -22,9 +21,11 @@
 - layout: left 
   company: Santa Clara University
   description: | # this will include new lines to allow paragraphs 
+    Capstone - [Tesla Energy Storage](https://drive.google.com/drive/folders/0B5o7-fHVavi8flpFOWNQaWVZUTI4UHQ2eHY2YXJyQ0pId0s3azEyTHVtU2Q2TmxfbHVvaHM?usp=sharing)
+    
     Management - [Business Case Analyses and Global Social Benefit Incubator](https://drive.google.com/drive/folders/0B5o7-fHVavi8fndzaEFraThaTHpNS1RzUG5WMVAtalRnRENTWEZBbTloMnFfTWxuS2c1MG8?usp=sharing)
     
     Marketing  - [Marketing Analysis, Brand Audit, Business Plan, and Small Business Entrepreneurship](https://drive.google.com/drive/folders/0B5o7-fHVavi8TWVta0twa0dyWnM?usp=sharing)
     
-    Capstone - [Tesla Energy Storage](https://drive.google.com/drive/folders/0B5o7-fHVavi8flpFOWNQaWVZUTI4UHQ2eHY2YXJyQ0pId0s3azEyTHVtU2Q2TmxfbHVvaHM?usp=sharing)
+   
     
