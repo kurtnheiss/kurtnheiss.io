@@ -1,10 +1,25 @@
 # Experience template
-
+- layout: left
+  company: Roku (Advertising and Developer Relations)
+  link: https://advertising.roku.com/oneview-onboarding / https://developer.roku.com/overview
+  job_title: Senior API Technical Writer
+  dates: May 2023 - present
+  description: | # this will include new lines to allow paragraphs 
+     
+     
+     I support Roku’s OneView Ad Platform APIs and Partner Developer Relations projects. I manage and develop project initiative for
+     a forthcoming API Portal to showcase ad tech data availability from the Roku platform. I am a member of Roku Partner Developer Relations 
+     team which seeks to better communicate concepts and procedures for the creation of a Roku channel. My current project work includes 
+     development of educational videos and associated documentation for the Brightscript programming language which is used to build 
+     media and networked applications for embedded devices. I assist developers and product management in the creation and edit of 
+     partner documentation.
+     
+     
 - layout: left
   company: LinkedIn
   link: https://www.linkedin.com
   job_title: Senior API Technical Writer
-  dates: September 2021 - present
+  dates: September 2021 - May 2023
   description: | # this will include new lines to allow paragraphs
 
      As a Senior API Technical Writer I support LinkedIn’s Marketing Solutions - Partner Engineering team for the 
@@ -21,22 +36,7 @@
      A final editor and source of truth for information displayed on our partner documentation portal. Ongoing iteration on improvements in 
      display and content.
      
-- layout: left
-  company: 8x8
-  link: https://www.8x8.com
-  job_title: API Product Owner
-  dates: January 2019 - August 2021
-  description: | # this will include new lines to allow paragraphs
-     As a member of the Product Management team I worked with globally distributed developer teams on the best way 
-     to present their APIs to our customers. I  helped teams in Cluj, London, Singapore, and Campbell develop both 
-     customer facing reference and use case information. 
-     
-     8x8 has an incredible data platform and these APIs enabled our customers to access a great deal of data.
-     
-     When I started at 8x8 there was no structured public API program in place. I was able to get the conversation started
-     amongst the disparate development teams as to strategy and standardized processes. 
-     
-     Constant iteration and improvement seeking to challenge what and how we are working to make sure we are delivering the best service.
+
      
 # - layout: left
 #  company: IT Knowledge
