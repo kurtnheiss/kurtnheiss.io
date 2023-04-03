@@ -1,7 +1,9 @@
 # Project template
 - layout: left 
   company: Roku
-  description:
+  description: | # this will include new lines to allow paragraphs
+    [Roku OneView Reporting API User Guide](https://drive.google.com/file/d/1vCYpB80EHjfCAT9A1JYvxeuaJg1mqu-1/view?usp=sharing) // [Roku OneView API Initiative](https://docs.google.com/presentation/d/1X68Eq6jUBIySodSZNmXKPEsX5P7BmL4R/edit?usp=sharing&ouid=111398279086437434307&rtpof=true&sd=true) // (Roku Developers)[https://developer.roku.com/docs/developer-program/media-playback/screensavers.md]
+
 - layout: left 
   company: LinkedIn
   description: | # this will include new lines to allow paragraphs
