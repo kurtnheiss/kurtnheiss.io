@@ -2,7 +2,7 @@
 - layout: left 
   company: Roku
   description: | # this will include new lines to allow paragraphs
-     [Roku OneView Reporting API User Guide](https://drive.google.com/file/d/1vCYpB80EHjfCAT9A1JYvxeuaJg1mqu-1/view?usp=sharing) // [Roku OneView API Initiative](https://drive.google.com/file/d/1zn7iOUSXxhqqYs3uzMXUYAvFj7SkwcVV/view?usp=sharing) // [Roku Developers](https://developer.roku.com/docs/developer-program/media-playback/screensavers.md)
+     [Roku OneView Reporting API User Guide](https://drive.google.com/file/d/1vCYpB80EHjfCAT9A1JYvxeuaJg1mqu-1/view?usp=sharing) // [Roku OneView API Initiative](https://drive.google.com/file/d/1zn7iOUSXxhqqYs3uzMXUYAvFj7SkwcVV/view?usp=sharing) // [Rok platform overview](https://developer.roku.com/docs/features/features-overview.md) // [Roku Developers](https://developer.roku.com/docs/developer-program/media-playback/screensavers.md)
   
 - layout: left 
   company: LinkedIn
