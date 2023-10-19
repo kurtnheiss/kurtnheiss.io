@@ -2,7 +2,7 @@
 - layout: left 
   company: UPS
   description: | # this will include new lines to allow paragraphs
-     [Address Validation](https://developer.ups.com/api/reference?loc=en_US#tag/AddressValidation_other) // [Rating](https://developer.ups.com/api/reference?loc=en_US#tag/Rating_other) // [Time in Transit](https://developer.ups.com/api/reference?loc=en_US#tag/TimeInTransit_other) // [Dangerous Goods](https://developer.ups.com/api/reference?loc=en_US#tag/DangerousGoods_other)
+     [Address Validation API](https://developer.ups.com/api/reference?loc=en_US#tag/AddressValidation_other) // [Rating API](https://developer.ups.com/api/reference?loc=en_US#tag/Rating_other) // [Time in Transit API](https://developer.ups.com/api/reference?loc=en_US#tag/TimeInTransit_other) // [Dangerous Goods API](https://developer.ups.com/api/reference?loc=en_US#tag/DangerousGoods_other)
 - layout: left 
   company: Roku
   description: | # this will include new lines to allow paragraphs
