@@ -1,5 +1,17 @@
 # Experience template
 - layout: left
+  company: UPS
+  link: https://developer.ups.com/catalog?loc=en_US
+  job_title: Senior API Technical Writer
+  dates: June to October 2023
+  description: | # this will include new lines to allow paragraphs
+
+     Member of the API Governance team focused on developing OpenAPI YAML specification standards and acceptance protocol for organization-wide UPS engineering teams. 
+     Authoring and annotation of OpenAPI YAML specifications for internal and external developer portals. Enhancement and repurposing of legacy documentation. 
+     Mentor other technical writers and developers.
+
+
+- layout: left
   company: Roku (Advertising and Developer Relations)
   link: https://advertising.roku.com/oneview-onboarding / https://developer.roku.com/overview
   job_title: Senior API Technical Writer
@@ -7,14 +19,14 @@
   description: | # this will include new lines to allow paragraphs 
      
      
-     As a Senior API Technical Writer I supported Roku’s OneView Ad Platform APIs and Partner Engineering Developer Relations projects. 
+     As a Senior API Technical Writer, I supported Roku’s OneView Ad Platform APIs and Partner Engineering Developer Relations projects. 
      
      I managed and developed the project initiative for the proposed forthcoming API Portal to showcase ad tech data availability from the Roku platform. 
      
      I was a member of the Roku Partner Engineering Developer Relations team which sought to better communicate concepts and procedures for how to create
-     the a streaming app for the Roku platform. My latest project work included an overhaul of the current Developer docs and website. Additional project 
+     the streaming app for the Roku platform. My latest project work included an overhaul of the current Developer docs and website. Additional project 
      work included the development of Brightscript educational videos and associated documentation. I assist developers and product 
-     management in the creation and edit of partner documentation.
+     management in the creation and editing of partner documentation.
      
      I was a final editor and source of truth for information displayed on our documentation portals and provided ongoing iteration on improvements in 
      display and content.     
@@ -29,11 +41,11 @@
      Supported LinkedIn’s Marketing Solutions - Partner Engineering team for the LinkedIn Marketing Developer Platform API. 
      
      Developed and edited external customer engineering documentation for the Marketing API library, role-based user access 
-     controls, infrastructure, systems, tools, and software engineering practices. The Marketing APIs enabled our customers develop and 
+     controls, infrastructure, systems, tools, and software engineering practices. The Marketing APIs enabled our customers to develop and 
      design online posts, video ads, and other content for their services. 
      
-     Designed and organize content for new API products. I gathered requirements for the customer support team in serving over more than 
-     2000 LinkedIn partners. Oversight and implement document version control (via Github) across the marketing documentation library 
+     Designed and organized content for new API products. I gathered requirements for the customer support team to serve over more than 
+     2000 LinkedIn partners. Oversight and implementation of document version control (via Github) across the marketing documentation library 
      in parallel with API version control. 
      
      I was a final editor and source of truth for information displayed on our partner documentation portal. I provided ongoing iteration on improvements in 
