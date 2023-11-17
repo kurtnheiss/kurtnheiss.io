@@ -50,15 +50,17 @@
      
      I was a final editor and source of truth for information displayed on our partner documentation portal. I provided ongoing iteration on improvements in 
      display and content.
-     
+  
+- layout: left
+  company: 8x8
+  link: https://www.8x8.com/
+  job_title: API Product Owner
+  dates: January 2019 - August 2021
+  description: | # this will include new lines to allow paragraphs
 
-     
-# - layout: left
-#  company: IT Knowledge
-  #link: Link to company (optional)
-  #job_title: API Product Owner
-  #dates: January 2019 - present
- # description: | # this will include new lines to allow paragraphs
+     Development and management of the public-facing 8x8 Developer Hub. Created an API customer information strategy followed by enterprise stakeholders. 
+     Identified gaps in the user experience. Provided leadership to leverage the product’s strengths while boosting productivity, organization, and personal 
+     accountability among stakeholders.	
      
  #    APIs, Apigee Edge usage and administration, SwaggerHub usage and administration, Github, Stoplight, markdown, Postman, HTML, CSS, JIRA, OpenAPI, JSON, XML, Google docs and sites, Confluence authoring and management, Jupyter notebooks, Linux, UNIX, Salesforce, Visual Studio Code, Agile software development, Microsoft Office Suite
 
