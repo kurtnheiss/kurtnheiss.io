@@ -17,7 +17,7 @@
 - layout: left
   company: 8x8 Projects
   description: | # this will include new lines to allow paragraphs 
-    [8x8 Cloud Communicatons API Reference Portal](https://developer.8x8.com/analytics/docs) // [Jitsi as a Service](https://developer.8x8.com/jaas/docs/jaas-onboarding?_ga=2.248774276.2017987783.1639346514-2025182814.1639346514) // [Voice SDK - Android and iOS](https://developer.8x8.com/connect/docs/overview)    
+    [8x8 Cloud Communicatons API Reference Portal](https://developer.8x8.com/analytics/reference/authentication-1) // [Jitsi as a Service](https://developer.8x8.com/jaas/docs/jaas-onboarding?_ga=2.248774276.2017987783.1639346514-2025182814.1639346514) // [Voice SDK - Android and iOS](https://developer.8x8.com/connect/docs/overview)    
 - layout: left 
   company: API/Developer Guides
   description: | # this will include new lines to allow paragraphs 
