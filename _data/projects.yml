@@ -1,4 +1,9 @@
 # Project template
+- layout: left
+  company: Dad Jokes API
+  description: |
+    [Dad Joke API Tutorial] () // [Dad Joke API specification]()
+  
 - layout: left 
   company: UPS
   description: | # this will include new lines to allow paragraphs
