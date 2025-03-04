@@ -9,7 +9,7 @@ email: kurtnheiss@gmail.com
 ## website: www.github.com/kurtnheiss/kurtnheiss.io
 
 # Social links
-twitter_username: kurtnheiss
+#twitter_username: kurtnheiss
 github_username:  kurtnheiss
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -44,7 +44,7 @@ about_content: | # this will include new lines to allow paragraphs
 more_content: | # this will include new lines to allow paragraphs
   In my free time, I like to learn new skills, hone my artistic interests, and exercise. 
   
-  Right now I am taking front-end web developer coursework through [Free Code Camp](https://www.freecodecamp.org/kurtnheiss).
+  Taking AI, Project Management, and API coursework on Coursera.
   
   Some of my other interests and hobbies are:
   
@@ -58,7 +58,7 @@ more_content: | # this will include new lines to allow paragraphs
    - Learning to create music via Logic
    - Returning to study of the cello
    - Learning German and Dutch
-   - [Reading](https://www.goodreads.com/user/show/5016817-kurt-heiss)
+   - Reading
    - Cooking
 
 # Footer
