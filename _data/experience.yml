@@ -15,7 +15,7 @@
 - layout: left
   company: UPS
   link: https://developer.ups.com/catalog?loc=en_US
-  job_title: Senior API Technical Writer
+  job_title: Senior API Technical Writer & Standards Lead, Governance Team
   dates: June to October 2023
   description: | # this will include new lines to allow paragraphs
 
@@ -27,12 +27,12 @@
 - layout: left
   company: Roku (Advertising and Developer Relations)
   link: https://advertising.roku.com/oneview-onboarding / https://developer.roku.com/overview
-  job_title: Senior API Technical Writer
+  job_title: Developer Experience & Documentation Lead
   dates: May 2022 - March 2023
   description: | # this will include new lines to allow paragraphs 
      
      
-     As a Senior API Technical Writer, I supported Roku’s OneView Ad Platform APIs and Partner Engineering Developer Relations projects. 
+     I supported Roku’s OneView Ad Platform APIs and Partner Engineering Developer Relations projects. 
      
      I managed and developed the project initiative for the proposed forthcoming API Portal to showcase ad tech data availability from the Roku platform. 
      
@@ -47,7 +47,7 @@
 - layout: left
   company: LinkedIn
   link: https://www.linkedin.com
-  job_title: Senior API Technical Writer
+  job_title: Marketing Developer Documentation & Release Manager
   dates: September 2021 - May 2022
   description: | # this will include new lines to allow paragraphs
 
@@ -67,7 +67,7 @@
 - layout: left
   company: 8x8
   link: https://www.8x8.com/
-  job_title: API Product Owner
+  job_title: Technical Program Manager/Developer Relations
   dates: January 2019 - August 2021
   description: | # this will include new lines to allow paragraphs
 
