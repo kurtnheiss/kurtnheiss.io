@@ -24,15 +24,13 @@ youtube_username: kurtnheiss
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Kurt 
-  
-  I am a business professional with skills and interest in information and content development, marketing, and management. I have extensive and 
-  varied experience working at both established tech giants as well as startups.
-  
-  Currently based in San Jose via stops in San Francisco, Orange County, Long Beach, and Seattle. I grew up in the Los Angeles area. 
-  
-  An alumnus of Santa Clara University (MBA)  and the University of Washington (BS, Zoology).
+  Hi, I’m Kurt
 
+  I’m a technical writer and developer relations professional specializing in API documentation, developer guides, and technical content strategy. With extensive experience at both established tech giants and startups, I bridge the gap between complex technologies and clear, developer-friendly documentation.
+
+  My work focuses on creating high-quality API reference materials, tutorials, and DevRel content that empower developers to build, integrate, and innovate. I’m passionate about improving developer experience through well-structured documentation and engaging technical content.
+
+  Currently based in San Jose, I’ve lived and worked in San Francisco, Orange County, Long Beach, and Seattle. I hold an MBA from Santa Clara University and a BS in Zoology from the University of Washington.
 # Experience Section
 # experience_title: Experience
 
