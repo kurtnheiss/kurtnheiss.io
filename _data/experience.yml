@@ -7,9 +7,11 @@
   dates: March 2024 to current
   description: | # this will include new lines to allow paragraphs
 
-     * Member of the Privacy Sandbox team focused on creating and improving the developer documentation experience. Used Markdown, Cider, and Critique for efficient documentation creation, code review, and file management. Refined content iteratively, applied the Google Style Guide, and integrated Google Gemini AI to enhance clarity and accuracy.
-     Championed and implemented a structured documentation workflow, improving collaboration, repository management, and version control.
-     Developed and streamlined a documentation workflow for the technical writing team, increasing productivity, ensuring timely completion, and improving contribution tracking.
+     * Member of the Privacy Sandbox team focused on creating and improving the developer documentation experience.
+     * Used Markdown, Cider, and Critique for efficient documentation creation, code review, and file management.
+     * Refined content iteratively, applied the Google Style Guide, and integrated Google Gemini AI to enhance clarity and accuracy.
+     * Championed and implemented a structured documentation workflow, improving collaboration, repository management, and version control.
+     * Developed and streamlined a documentation workflow for the technical writing team, increasing productivity, ensuring timely completion, and improving contribution tracking.
 
 
 - layout: left
