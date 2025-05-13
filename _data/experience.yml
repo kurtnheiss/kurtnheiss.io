@@ -1,9 +1,9 @@
 pert# Experience template
 
 - layout: left
-  company: Expert Support 
-  link: https://privacysandbox.com/intl/en_us/
-  job_title: Senior Technical Writer, Documentation and Process Improvement, Google Privacy Sandbox project
+  company: "Expert Support - The Technical Writing Company"
+  link: "https://privacysandbox.com/intl/en_us/"
+  job_title: "Senior Technical Writer, Documentation and Process Improvement, Google Privacy Sandbox Project"
   dates: March 2024 to current
   description: | # this will include new lines to allow paragraphs
 
