@@ -1,8 +1,8 @@
 # Project template
 - layout: left 
-  company: Expert Support (Google contract)
+  company: Expert Support 
   description: | # this will include new lines to allow paragraphs
-     [Privacy Sandbox Project documentation](https://privacysandbox.com/intl/en_us/)
+     [Google Privacy Sandbox Project documentation](https://privacysandbox.com/intl/en_us/)
 - layout: left 
   company: UPS
   description: | # this will include new lines to allow paragraphs
