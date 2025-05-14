@@ -3,14 +3,13 @@ pert# Experience template
 - layout: left
   company: "Expert Support - The Technical Writing Company"
   link: "https://privacysandbox.com/intl/en_us/"
-  job_title: "Senior Technical Writer - Documentation and Process Improvement, Google Privacy Sandbox Project"
+  job_title: "Senior Technical Writer – Documentation and Process Improvement, Google Privacy Sandbox Project"
   dates: "March 2024 to current"
-  description: | # this will include new lines to allow paragraphs
-
-     * Member of the Privacy Sandbox team focused on creating and improving the developer documentation experience.
-     * Use Markdown, Cider, and Critique for efficient documentation creation, code review, and file management.
-     * Refine content iteratively, apply the Google Style Guide, and integrate Google Gemini AI to enhance clarity and accuracy.
-     * Championed and implemented a structured documentation workflow, improving collaboration, repository management, and version control.
+  description: |
+    * Member of the Privacy Sandbox team focused on creating and improving the developer documentation experience.
+    * Use Markdown, Cider, and Critique for efficient documentation creation, code review, and file management.
+    * Refine content iteratively, apply the Google Style Guide, and integrate Google Gemini AI to enhance clarity and accuracy.
+    * Championed and implemented a structured documentation workflow, improving collaboration, repository management, and version control.
 
 - layout: left
   company: UPS
