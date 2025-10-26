@@ -5,11 +5,11 @@
   link: "https://expertsupport.com/"
   job_title: "Senior Technical Writer – Documentation and Process Improvement, Google Privacy Sandbox Project"
   dates: "March 2024 to current"
-  description: |
-    * Member of the Google Privacy Sandbox team focused on creating and improving the developer documentation experience.
-    * Use Markdown, Cider, and Critique for efficient documentation creation, code review, and file management.
-    * Refine content iteratively, apply the Google Style Guide, and integrate Google Gemini AI to enhance clarity and accuracy.
-    * Championed and implemented a structured documentation workflow, improving collaboration, repository management, and version control.
+  description: | # this will include new lines to allow paragraphs
+    
+    * Led documentation for the Google Privacy Sandbox team, focusing on optimizing the developer experience (DX) and technical content strategy for complex, evolving toolsets.
+    * Championed and implemented a structured Documentation-as-Code (DaC) workflow, significantly improving collaboration, version control, and repository management using industry tools like Markdown, Cider, and Critique.
+    * Drove content efficiency and quality assurance by iteratively applying the rigorous Google Style Guide and integrating Google Gemini AI into the refinement process to enhance clarity and technical accuracy.
 
 - layout: left
   company: UPS
