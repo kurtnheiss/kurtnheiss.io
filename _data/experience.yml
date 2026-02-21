@@ -1,7 +1,20 @@
 # Experience template
 
 - layout: left
-  company: "Expert Support – The Technical Writing Company"
+  company: "Expert Support – The Technical Writing Company" - NVIDA
+  link: "https://expertsupport.com/"
+  job_title: "Senior Technical Lead, Expert Support (ESI) Contractor, NVIDIA, San Jose, CA (remote) "
+  dates: "December 2025 to current"
+  description: | # this will include new lines to allow paragraphs
+    
+    * Lead documentation strategy and execution for production-grade AI blueprints, including Retrieval-Augmented Generation (RAG) and NV-Ingest pipelines
+    * Deliver end-to-end developer documentation enabling scalable deployment of generative AI systems across data ingestion, APIs, and inference workflows
+    * Partner cross-functionally with engineering and research teams to drive release-candidate readiness and ensure technical precision under tight timelines
+    * Simplify complex AI/ML architectures (vector databases, embeddings, NeMo models, inference pipelines) into clear, actionable implementation guidance
+    * Perform hands-on validation of repositories and configurations to align documentation with real-world deployment and enterprise use cases
+
+- layout: left
+  company: "Expert Support – The Technical Writing Company" - Google Privacy Sandbox project
   link: "https://expertsupport.com/"
   job_title: "Senior Technical Lead, Privacy Sandbox Initiative, Expert Support (ESI) Contractor, Google, San Jose, CA (remote) "
   dates: "March 2024 to October 2025"
