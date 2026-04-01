@@ -1,7 +1,7 @@
 # Experience template
 
 - layout: left
-  company: "Expert Support – The Technical Writing Company" - NVIDA
+  company: NVIDIA
   link: "https://expertsupport.com/"
   job_title: "Senior Technical Lead, Expert Support (ESI) Contractor, NVIDIA, San Jose, CA (remote) "
   dates: "December 2025 to current"
@@ -14,7 +14,7 @@
     * Perform hands-on validation of repositories and configurations to align documentation with real-world deployment and enterprise use cases
 
 - layout: left
-  company: "Expert Support – The Technical Writing Company" - Google Privacy Sandbox project
+  company: Google Privacy Sandbox project
   link: "https://expertsupport.com/"
   job_title: "Senior Technical Lead, Privacy Sandbox Initiative, Expert Support (ESI) Contractor, Google, San Jose, CA (remote) "
   dates: "March 2024 to October 2025"
