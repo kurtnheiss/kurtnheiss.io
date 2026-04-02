@@ -1,6 +1,11 @@
 # Project template
 - layout: left 
-  company: Expert Support 
+  company: Expert Support (NVIDIA)
+  description: | # this will include new lines to allow paragraphs
+     [What is NeMo Retriever Library?](https://docs.nvidia.com/nemo/retriever/latest/extraction/overview/)
+
+- layout: left 
+  company: Expert Support (Google)
   description: | # this will include new lines to allow paragraphs
      [Google Privacy Sandbox Project documentation](https://privacysandbox.com/intl/en_us/)
      
