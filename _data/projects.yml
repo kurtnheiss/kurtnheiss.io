@@ -1,11 +1,11 @@
 # Project template
 - layout: left 
-  company: Expert Support (NVIDIA)
+  company: NVIDIA (Expert Support Inc.)
   description: | # this will include new lines to allow paragraphs
      [What is NeMo Retriever Library?](https://docs.nvidia.com/nemo/retriever/latest/extraction/overview/)
 
 - layout: left 
-  company: Expert Support (Google)
+  company: Google (Expert Support Inc.)
   description: | # this will include new lines to allow paragraphs
      [Google Privacy Sandbox Project documentation](https://privacysandbox.com/intl/en_us/)
      
@@ -13,6 +13,7 @@
   company: UPS
   description: | # this will include new lines to allow paragraphs
      [Address Validation API](https://developer.ups.com/api/reference?loc=en_US&tag=Address-Validation) // [Rating API](https://developer.ups.com/api/reference?loc=en_US&tag=Rating) // [Time in Transit API](https://developer.ups.com/tag/Time-in-Transit?loc=en_US&tag=Time-in-Transit) // [Dangerous Goods API](https://developer.ups.com/tag/Dangerous-Goods?loc=en_US&tag=Dangerous-Goods)
+
 - layout: left 
   company: Roku
   description: | # this will include new lines to allow paragraphs
@@ -22,10 +23,12 @@
   company: LinkedIn
   description: | # this will include new lines to allow paragraphs
     [Create and Manage Creatives](https://learn.microsoft.com/en-us/linkedin/marketing/integrations/ads/account-structure/create-and-manage-creatives?view=li-lms-unversioned&tabs=http) // [Videos API Beta](https://learn.microsoft.com/en-us/linkedin/marketing/usecases/foundations/video-ads-beta-learn?view=li-lms-2023-01) // [UGC Posts API Beta](https://learn.microsoft.com/en-us/linkedin/marketing/integrations/community-management/shares/ugc-post-api?view=li-lms-unversioned&tabs=http) // [Video Ads Beta](https://learn.microsoft.com/en-us/linkedin/marketing/integrations/ads/advertising-targeting/create-and-manage-video?view=li-lms-unversioned&tabs=http)
+
 - layout: left
   company: 8x8 Projects
   description: | # this will include new lines to allow paragraphs 
     [8x8 Cloud Communicatons API Reference Portal](https://developer.8x8.com/analytics/reference/authentication-1) // [Jitsi as a Service](https://developer.8x8.com/jaas/docs/jaas-onboarding?_ga=2.248774276.2017987783.1639346514-2025182814.1639346514) // [Voice SDK - Android and iOS](https://developer.8x8.com/connect/docs/overview)    
+
 - layout: left 
   company: API/Developer Guides
   description: | # this will include new lines to allow paragraphs 
