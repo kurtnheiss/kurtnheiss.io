@@ -1,4 +1,9 @@
 # Project template
+- layout: left
+  company: GitHub Work
+  description: |
+     My [public GitHub profile](https://github.com/kurtnheiss) records my repositories and contribution activity. Selected work includes this site's [Jekyll and GitHub Pages source](https://github.com/kurtnheiss/kurtnheiss.io), a hands-on [REST API testing workspace](https://github.com/kurtnheiss/apiprojects), and [Python coursework projects](https://github.com/kurtnheiss/Python_projects). These repositories demonstrate documentation-as-code, API testing, scripting, and developer-tooling skills. Most client work is maintained in employer-owned repositories and is not represented publicly.
+
 - layout: left 
   company: NVIDIA (Expert Support Inc.)
   description: | # this will include new lines to allow paragraphs
