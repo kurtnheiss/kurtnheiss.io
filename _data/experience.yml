@@ -10,6 +10,8 @@
     * Lead developer documentation and documentation engineering for open-source AI retrieval software, including NeMo Retriever Library and Retrieval-Augmented Generation (RAG) workflows.
     * Work directly in engineering repositories across Python APIs, CLI behavior, Helm/Kubernetes deployment, configuration, release notes, support matrices, troubleshooting, and production publishing.
     * Submitted 200+ public NVIDIA pull requests under my NVIDIA work GitHub identity, spanning release readiness, documentation QA, API/CLI accuracy, information architecture, CI/publishing, and developer experience.
+    * Built and implemented automated documentation build and publishing workflows so repository changes could automatically build GitHub Pages and publish versioned documentation to docs.nvidia.com, reducing dependence on manual publishing and keeping public docs aligned with the codebase.
+    * Extended the publishing system with release-aware workflows, nightly/manual build paths, production safeguards, rollback procedures, and CDN/cache handling for docs.nvidia.com.
     * Introduced AI-assisted documentation engineering patterns, including composition-time agent guidance and an automated review rule designed to catch documentation drift when user-visible software behavior changes.
     * Validate documentation against source code, tests, Helm values, configuration, and release artifacts; work through engineering review and merge changes into NVIDIA's public repository.
     * Translate complex AI/ML systems — NIM microservices, vector databases, embeddings, OCR, retrieval pipelines, and inference workflows — into actionable developer guidance.
