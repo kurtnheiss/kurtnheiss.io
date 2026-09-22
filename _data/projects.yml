@@ -6,16 +6,20 @@
 
      **NVIDIA NeMo Retriever — 200+ public pull requests**
 
-     During my NVIDIA assignment, I have submitted more than 200 public pull requests under my NVIDIA work GitHub identity, [kheiss-uwzoo](https://github.com/NVIDIA/NeMo-Retriever/pulls?q=is%3Apr+author%3Akheiss-uwzoo), to the [NVIDIA NeMo Retriever](https://github.com/NVIDIA/NeMo-Retriever) repository. The work spans developer documentation, API and CLI accuracy, Helm/Kubernetes deployment guidance, release engineering, documentation QA, information architecture, and documentation automation.
+     During my NVIDIA assignment, I have submitted more than 200 public pull requests under my NVIDIA work GitHub identity, [kheiss-uwzoo](https://github.com/NVIDIA/NeMo-Retriever/pulls?q=is%3Apr+author%3Akheiss-uwzoo), to the [NVIDIA NeMo Retriever](https://github.com/NVIDIA/NeMo-Retriever) repository. The work spans developer documentation, API and CLI accuracy, Helm/Kubernetes deployment guidance, release engineering, documentation QA, information architecture, documentation automation, and documentation CI/CD.
 
-     Selected contributions:
+     **Documentation CI/CD & publishing**
+
+     I created and implemented automated documentation build and publishing workflows for NeMo Retriever so repository changes could automatically build GitHub Pages and publish versioned documentation to docs.nvidia.com. I also worked on nightly/manual release publishing, release-aware build paths, production publishing safeguards, rollback procedures, and CDN/cache handling. This moved documentation publishing beyond a primarily manual writer workflow and treated the docs site as an engineered delivery system.
+
+     Representative public PRs include [automating docs.nvidia.com publishing and enabling public-doc features](https://github.com/NVIDIA/NeMo-Retriever/pull/2223), [nightly/manual 26.05 publishing](https://github.com/NVIDIA/NeMo-Retriever/pull/2322), [restoring GitHub Pages deployment](https://github.com/NVIDIA/NeMo-Retriever/pull/2227), [production 26.08 publishing](https://github.com/NVIDIA/NeMo-Retriever/pull/2554), and [publishing rollback and safeguards](https://github.com/NVIDIA/NeMo-Retriever/pull/2563).
+
+     **Selected additional contributions:**
 
      * [Composition-time agent guidance (AGENTS.md)](https://github.com/NVIDIA/NeMo-Retriever/pull/2445) — added repository guidance so compatible coding agents recognize user-visible changes and draft or update documentation during development.
      * [Documentation-stays-current review rule](https://github.com/NVIDIA/NeMo-Retriever/pull/2429) — added an automated review rule to flag concrete documentation drift when APIs, CLI behavior, configuration, examples, or other user-facing surfaces change.
      * [26.08 release notes](https://github.com/NVIDIA/NeMo-Retriever/pull/2434) — reconciled customer-facing release notes against source, Helm configuration, and post-26.05 product changes.
      * [Helm GPU scheduling guidance](https://github.com/NVIDIA/NeMo-Retriever/pull/2510) — clarified GPU-resource behavior and documented production deployment implications for the default Helm topology.
-     * [docs.nvidia.com publishing workflow](https://github.com/NVIDIA/NeMo-Retriever/pull/2554) — updated versioned publishing, release aliases, and production documentation workflow.
-     * [Publishing rollback and safeguards](https://github.com/NVIDIA/NeMo-Retriever/pull/2563) — diagnosed an unintended publish path and documented a production rollback/runbook and safer publishing controls.
      * [NVIDIA template-aligned information architecture](https://github.com/NVIDIA/NeMo-Retriever/pull/2629) — restructured documentation navigation and information architecture around NVIDIA content patterns.
      * [26.08.2 Helm patch notes](https://github.com/NVIDIA/NeMo-Retriever/pull/2634) — maintained release-specific documentation and source-link accuracy for a patch train.
 
