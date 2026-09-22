@@ -1,57 +1,73 @@
 # Project template
 - layout: left
-  company: GitHub Work
+  company: Open-Source Documentation Engineering
   description: |
-     My [public GitHub profile](https://github.com/kurtnheiss) records my repositories and contribution activity. Selected work includes this site's [Jekyll and GitHub Pages source](https://github.com/kurtnheiss/kurtnheiss.io), a hands-on [REST API testing workspace](https://github.com/kurtnheiss/apiprojects), and [Python coursework projects](https://github.com/kurtnheiss/Python_projects). These repositories demonstrate documentation-as-code, API testing, scripting, and developer-tooling skills. Most client work is maintained in employer-owned repositories and is not represented publicly.
+     My GitHub work shows documentation engineering inside real software repositories: technical investigation, docs-as-code, pull-request review, release readiness, CI/publishing, and changes that ship with the product.
+
+     **NVIDIA NeMo Retriever — 200+ public pull requests**
+
+     During my NVIDIA assignment, I have submitted more than 200 public pull requests under my NVIDIA work GitHub identity, [kheiss-uwzoo](https://github.com/NVIDIA/NeMo-Retriever/pulls?q=is%3Apr+author%3Akheiss-uwzoo), to the [NVIDIA NeMo Retriever](https://github.com/NVIDIA/NeMo-Retriever) repository. The work spans developer documentation, API and CLI accuracy, Helm/Kubernetes deployment guidance, release engineering, documentation QA, information architecture, and documentation automation.
+
+     Selected contributions:
+
+     * [Composition-time agent guidance (AGENTS.md)](https://github.com/NVIDIA/NeMo-Retriever/pull/2445) — added repository guidance so compatible coding agents recognize user-visible changes and draft or update documentation during development.
+     * [Documentation-stays-current review rule](https://github.com/NVIDIA/NeMo-Retriever/pull/2429) — added an automated review rule to flag concrete documentation drift when APIs, CLI behavior, configuration, examples, or other user-facing surfaces change.
+     * [26.08 release notes](https://github.com/NVIDIA/NeMo-Retriever/pull/2434) — reconciled customer-facing release notes against source, Helm configuration, and post-26.05 product changes.
+     * [Helm GPU scheduling guidance](https://github.com/NVIDIA/NeMo-Retriever/pull/2510) — clarified GPU-resource behavior and documented production deployment implications for the default Helm topology.
+     * [docs.nvidia.com publishing workflow](https://github.com/NVIDIA/NeMo-Retriever/pull/2554) — updated versioned publishing, release aliases, and production documentation workflow.
+     * [Publishing rollback and safeguards](https://github.com/NVIDIA/NeMo-Retriever/pull/2563) — diagnosed an unintended publish path and documented a production rollback/runbook and safer publishing controls.
+     * [NVIDIA template-aligned information architecture](https://github.com/NVIDIA/NeMo-Retriever/pull/2629) — restructured documentation navigation and information architecture around NVIDIA content patterns.
+     * [26.08.2 Helm patch notes](https://github.com/NVIDIA/NeMo-Retriever/pull/2634) — maintained release-specific documentation and source-link accuracy for a patch train.
+
+     These PRs show the working process behind the finished documentation: identify a product or documentation gap, verify behavior against source and configuration, propose a scoped change, respond to engineering review, validate the result, and merge it into the public NVIDIA repository.
+
+     My personal [GitHub profile](https://github.com/kurtnheiss) also includes this site's [Jekyll/GitHub Pages source](https://github.com/kurtnheiss/kurtnheiss.io), a [REST API testing workspace](https://github.com/kurtnheiss/apiprojects), and [Python coursework projects](https://github.com/kurtnheiss/Python_projects).
 
 - layout: left 
   company: NVIDIA (Expert Support Inc.)
-  description: | # this will include new lines to allow paragraphs
-     [What is NeMo Retriever Library?](https://docs.nvidia.com/nemo/retriever/latest/extraction/overview/)
+  description: |
+     [NeMo Retriever Library documentation](https://docs.nvidia.com/nemo/retriever/latest/extraction/overview/) // [NVIDIA NeMo Retriever repository](https://github.com/NVIDIA/NeMo-Retriever) // [My public NVIDIA pull requests](https://github.com/NVIDIA/NeMo-Retriever/pulls?q=is%3Apr+author%3Akheiss-uwzoo)
 
 - layout: left 
   company: Google (Expert Support Inc.)
-  description: | # this will include new lines to allow paragraphs
+  description: |
      [Google Privacy Sandbox Project documentation](https://privacysandbox.com/intl/en_us/)
      
 - layout: left 
   company: UPS
-  description: | # this will include new lines to allow paragraphs
+  description: |
      [Address Validation API](https://developer.ups.com/api/reference?loc=en_US&tag=Address-Validation) // [Rating API](https://developer.ups.com/api/reference?loc=en_US&tag=Rating) // [Time in Transit API](https://developer.ups.com/tag/Time-in-Transit?loc=en_US&tag=Time-in-Transit) // [Dangerous Goods API](https://developer.ups.com/tag/Dangerous-Goods?loc=en_US&tag=Dangerous-Goods)
 
 - layout: left 
   company: Roku
-  description: | # this will include new lines to allow paragraphs
+  description: |
      [Roku OneView Reporting API User Guide](https://drive.google.com/file/d/1dfTnWGz7GWvGHBep_L4WEmMevKH6yNko/view?usp=sharing) // [Roku OneView API Initiative](https://docs.google.com/presentation/d/1rqCaGLFCtmD13G5WnpceZLUkYKHwSsS-/edit?usp=sharing&ouid=111398279086437434307&rtpof=true&sd=true) // [Roku platform overview](https://developer.roku.com/docs/features/features-overview.md) // [Roku Developers](https://developer.roku.com/docs/developer-program/media-playback/screensavers.md)
   
 - layout: left 
   company: LinkedIn
-  description: | # this will include new lines to allow paragraphs
+  description: |
     [Create and Manage Creatives](https://learn.microsoft.com/en-us/linkedin/marketing/integrations/ads/account-structure/create-and-manage-creatives?view=li-lms-unversioned&tabs=http) // [Videos API Beta](https://learn.microsoft.com/en-us/linkedin/marketing/usecases/foundations/video-ads-beta-learn?view=li-lms-2023-01) // [UGC Posts API Beta](https://learn.microsoft.com/en-us/linkedin/marketing/integrations/community-management/shares/ugc-post-api?view=li-lms-unversioned&tabs=http) // [Video Ads Beta](https://learn.microsoft.com/en-us/linkedin/marketing/integrations/ads/advertising-targeting/create-and-manage-video?view=li-lms-unversioned&tabs=http)
 
 - layout: left
   company: 8x8 Projects
-  description: | # this will include new lines to allow paragraphs 
+  description: |
     [8x8 Cloud Communicatons API Reference Portal](https://developer.8x8.com/analytics/reference/authentication-1) // [Jitsi as a Service](https://developer.8x8.com/jaas/docs/jaas-onboarding?_ga=2.248774276.2017987783.1639346514-2025182814.1639346514) // [Voice SDK - Android and iOS](https://developer.8x8.com/connect/docs/overview)    
 
 - layout: left 
   company: API/Developer Guides
-  description: | # this will include new lines to allow paragraphs 
+  description: |
     [8x8](https://drive.google.com/drive/folders/1tX0krXawS6JgDBN4cRdjgUQfDLOx8Uzb?usp=sharing) // [SymphonyAI(Ayasdi)](https://drive.google.com/drive/folders/1swpfD155wKukRjA6JeFk73YPOnZf99I5?usp=sharing) // [Symantec (Cloudfire)](https://drive.google.com/drive/folders/1XHXl2vvMwiRPoTk3AOuH5xjIk0sIOowE?usp=sharing) // [ExactBid](https://drive.google.com/drive/folders/1jW5wILglZFS779_aQ4d1LETbj-N9Wc7s?usp=sharing) // [Google](https://drive.google.com/drive/folders/16SQGLyNS_AuuAhi_CnqvBQCj22pJ4EkQ?usp=sharing) // [Aggregate Knowledge (Neustar)](https://drive.google.com/drive/folders/1nWVseoi74V_4o9XkMA3rfJlui4nKG5Oi?usp=sharing) // [NTTi3](https://drive.google.com/drive/folders/1t_8vbdtIp7FHWmK9gWv-ltUQ_xgbC71G?usp=sharing) // [Oracle Corp](https://drive.google.com/drive/folders/1TBU6DWxBC_kC-c7Chds6nN0fp6-7-zZ1?usp=sharing)
      
 - layout: left 
   company: Technical Documents
-  description: | # this will include new lines to allow paragraphs 
+  description: |
     [SymphonyAI(Ayasdi)](https://drive.google.com/drive/folders/133tDRW-u6XF5gElWvsCSLmCm7ZWjQv0Z?usp=sharing) // [Cisco Systems](https://drive.google.com/drive/folders/0B5o7-fHVavi8SG5ReXpuNW1rdGc?usp=sharing) // [Symantec](https://drive.google.com/drive/folders/0B5o7-fHVavi8flE5OVJ6bDN6cWpqYjRVdVl4aGQwenJMeTJ3SWhTblJiNmpFNnRYdWo5RlE?usp=sharing) // [ExactBid](https://drive.google.com/drive/folders/0B5o7-fHVavi8VDRhT0FJY0NXdVU?usp=sharing) // [Aggregate Knowledge](https://drive.google.com/drive/folders/0B5o7-fHVavi8fjhvMjA1bExJZWRNQmtnT2VhUnNsUHhmT3lLWHc4UXV5M0V2ZUt1TzV1TWs?usp=sharing) // [NTTi3](https://drive.google.com/drive/folders/0B5o7-fHVavi8eWVGNWQ1ZWdwSG8?usp=sharing) // [Oracle Corp](https://drive.google.com/drive/folders/0B5o7-fHVavi8fk8zYWdOX1RDUER0WGFWR1hyT0U3bXVmN0hNM1BKRnQ2amhRS0JvbUx5Sms?usp=sharing)
    
 - layout: left 
   company: Santa Clara University, MBA Projects
-  description: | # this will include new lines to allow paragraphs 
+  description: |
     Capstone - [Tesla Energy Storage](https://docs.google.com/presentation/d/1CGsoOF1ivRJGWq57fAPFOZj7uuYOuRZZXJbGxb_PjwY/edit?usp=sharing)
     
     Management - [Business Case Analyses and Global Social Benefit Incubator](https://drive.google.com/drive/folders/0B5o7-fHVavi8fndzaEFraThaTHpNS1RzUG5WMVAtalRnRENTWEZBbTloMnFfTWxuS2c1MG8?usp=sharing)
     
     Marketing  - [Marketing Analysis, Brand Audit, Business Plan, and Small Business Entrepreneurship](https://drive.google.com/drive/folders/0B5o7-fHVavi8TWVta0twa0dyWnM?usp=sharing)
-    
-   
-    
