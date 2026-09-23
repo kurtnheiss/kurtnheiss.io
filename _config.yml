@@ -3,7 +3,7 @@ repository: kurtnheiss/kurtnheiss.io
 favicon: images/favicon.ico
 
 # Personal info
-name: Kurt N. Heiss, Technical Content Strategy & Execution
+name: Kurt N. Heiss, Program Operations & Documentation Engineering
 # title: Project Management/Content Development
 email: kurtnheiss@gmail.com
 ## website: www.github.com/kurtnheiss/kurtnheiss.io
@@ -24,14 +24,14 @@ linkedin_username: kurtnheiss
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
 
-  I am a Developer Experience Professional and API Technical Content Strategist. I bridge the gap between complex Enterprise Software and clear, high-quality documentation, driving project success through strong Project Management leadership.
+  I work at the intersection of technology, program execution, documentation engineering, and process improvement. I am especially effective when the work is complex: understanding how a system operates, bringing structure to competing priorities, coordinating across teams, improving workflows, and getting important work completed accurately and on schedule.
 
-  With over 10 years of experience at tech giants like Google, Roku, and LinkedIn, my focus is on delivering top-tier results in complex, fast-paced environments.
+  Most recently at NVIDIA, I have worked directly in engineering workflows supporting AI retrieval technologies. My work spans release readiness, documentation QA, GitHub-based development, CI/build and publishing automation, information architecture, and developer experience, including more than 200 public pull requests to NVIDIA's NeMo Retriever repository.
 
-  I am fluent in modern Documentation-as-Code (DaC) methodologies and have proactively invested in the skills necessary for the future of tech, including the Google Project Management Certification and training in AI strategy and implementation. I am energized by intellectual challenges and dedicated to securing a long-term, high-impact role where I can apply a strategic, full-time commitment to driving corporate success.
+  My broader background includes technical program management and developer relations, API product and platform work, release management, documentation governance, and cross-functional collaboration with engineering, product, QA, and business stakeholders. I bring the communication discipline of a senior documentation professional to program and operations work where execution, traceability, quality, and follow-through matter.
 
-  I hold an MBA from the Santa Clara University, Leavey School of Business and a BS in Zoology from the University of Washington.
- 
+  I hold an MBA from Santa Clara University's Leavey School of Business and have completed the Google Project Management Certificate. I am interested in program and operations management, process improvement, technical program management, developer experience, and documentation engineering roles where I can bring structure to complex work and help teams deliver.
+
   I am currently based in San Jose, CA.
 
 # Experience Section
